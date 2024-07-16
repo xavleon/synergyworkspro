@@ -1,4 +1,4 @@
-# React JS Landing Page Template
+# React JS Cleaning Business Page
 
 **
 
