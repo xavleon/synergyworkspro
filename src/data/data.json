@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon":"fa fa-regular fa-star ",
       "name": "Residential Cleaning",
-      "text": "Comprehensive cleaning services for your home, including living areas, bedrooms, kitchens, and bathrooms."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Commercial Cleaning",
-      "text": "Professional cleaning solutions for offices, retail spaces, and other commercial properties."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Move-In/Move-Out Cleaning",
-      "text": "Thorough cleaning services to ensure your new home is spotless or to leave your old place in perfect condition."
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-language",
-      "name": "Deep Cleaning",
-      "text": "Environmentally safe cleaning services using non-toxic and eco-friendly products."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Eco-Friendly Cleaning",
-      "text": "Intensive cleaning services to reach every nook and cranny, ideal for spring cleaning or periodic deep cleans."
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Carpet and Upholstery Cleaning",
-      "text": "Specialized cleaning for carpets, rugs, and upholstery to remove dirt, stains, and allergens."
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Testimonials": [
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "2740 Richmond Terrace, Staten Island, NY 10303 ",
+    "phone": "+1 917 860 0115",
+    "email": "",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
