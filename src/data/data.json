@@ -67,66 +67,66 @@
   ],
   "Services": [
     {
-      "icon":"fa fa-regular fa-star ",
+      "icon":"fa fa-solid fa-house ",
       "name": "Residential Cleaning",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Comprehensive cleaning services for your home, including living areas, bedrooms, kitchens, and bathrooms."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-regular fa-building",
+      "name": "Commercial Cleaning",
+      "text": "Professional cleaning solutions for offices, retail spaces, and other commercial properties."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-truck-moving",
+      "name": "Move-In/Move-Out Cleaning",
+      "text": "Thorough cleaning services to ensure your new home is spotless or to leave your old place in perfect condition."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-soap",
+      "name": "Deep Cleaning",
+      "text": "Intensive cleaning services to reach every nook and cranny, ideal for spring cleaning or periodic deep cleans."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-shield-halved",
+      "name": "Discreet Cleaning",
+      "text": "Our services are conducted with the utmost respect for your privacy and confidentiality, ensuring minimal disruption to your daily routine."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-rug",
+      "name": "Carpet and Upholstery Cleaning",
+      "text": "Specialized cleaning for carpets, rugs, and upholstery to remove dirt, stains, and allergens."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"SynergyWorks Pro did an amazing job on my apartment! The team was professional, thorough, and very friendly. I couldn't be happier with the results. Highly recommended!\"",
+      "name": "Michael Roberts"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I hired SynergyWorks Pro for a deep cleaning before moving into my new home. They exceeded my expectations, and the place was spotless. Fantastic service!\"",
+      "name": "David Smith"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The eco-friendly cleaning products used by SynergyWorks Pro were a huge plus for me. My home is clean and fresh without any harsh chemical smells. Great job!\"",
+      "name": "James Liu"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"SynergyWorks Pro is the best cleaning service I've ever used. They are reliable, efficient, and discreet. I appreciate their attention to detail and commitment to customer satisfaction.\"",
+      "name": "Maria Gonzalez"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"SynergyWorks Pro transformed my home! The cleaners were prompt, courteous, and left everything sparkling clean. I will definitely be using their services again.\"",
+      "name": "Ahmed Khan"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"SynergyWorks Pro went above and beyond with their cleaning service. My home has never looked better! Their attention to detail and professionalism are unmatched. Highly recommended!\"",
+      "name": "Carlos Martinez"
     }
   ],
   "Team": [
@@ -154,29 +154,29 @@
   "Contact": {
     "address": "2740 Richmond Terrace, Staten Island, NY 10303 ",
     "phone": "+1 917 860 0115",
-    "email": "",
+    "email": "info@synerproclean.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-regular fa-clock",
       "title": "24/7 Availability",
       "text": "Round-the-clock service for your convenience."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-calendar",
       "title": "Flexible Scheduling",
       "text": "Convenient scheduling to fit your busy life."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-solid fa-people-group",
       "title": "Professional Staff",
       "text": "Highly trained and experienced cleaning professionals."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-regular fa-circle-check",
       "title": "Satisfaction Guarantee",
       "text": "100% satisfaction guarantee on all services."
     }

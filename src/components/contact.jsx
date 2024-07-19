@@ -60,7 +60,7 @@ export const Contact = (props) => {
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
-                  <div className="col-md-6">
+                  <div className="col-md-8">
                     <div className="form-group">
                       <input
                         type="text"
@@ -74,7 +74,7 @@ export const Contact = (props) => {
                       <p className="help-block text-danger"></p>
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-8">
                     <div className="form-group">
                       <input
                         type="email"
@@ -88,7 +88,7 @@ export const Contact = (props) => {
                       <p className="help-block text-danger"></p>
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-8">
                     <div className="form-group">
                       <input
                         type="text"
@@ -177,9 +177,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            &copy; 2023 Design by{" "}
+            <a href="https://xavcode.netlify.app/" rel="nofollow">
+              Xavcode
             </a>
           </p>
         </div>
