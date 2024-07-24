@@ -214,6 +214,7 @@ a:focus,
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+ 
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.5);
@@ -602,5 +603,45 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-text h1 {
+      font-size: 2em; /* Adjust font size for smaller screens */
+  }
+
+  .intro-text p {
+      font-size: 1em; /* Adjust font size for smaller screens */
+  }
+
+  .btn {
+      padding: 8px 16px; /* Adjust button padding */
+      font-size: 1em; /* Adjust font size */
+  }
+}
+
+
+/* Adjustments specifically for very small screens */
+@media (max-width: 412px) {
+  .intro-text {
+      padding: 10px; /* Reduce padding */
+  }
+
+  .intro-text h1 {
+      font-size: 1.5em; /* Further adjust font size */
+  }
+
+  .intro-text p {
+      font-size: 0.9em; /* Further adjust font size */
+  }
+
+  .btn {
+      padding: 6px 12px; /* Further adjust button padding */
+      font-size: 0.9em; /* Further adjust font size */
+  }
+
+  .intro {
+      height: auto; /* Adjust height if needed for very small screens */
   }
 }
