@@ -13,7 +13,7 @@
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 All 'visual' data can be easily modified by changing the data.json file.
 
-## Make it Yours!
+
 ### 1. Preps
 You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
 
@@ -25,10 +25,10 @@ You can also change styles by modifying the ```public/css``` files.
 If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
 
 ## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+<a href="https://xavcode.com">Visit my developer site</a>
 
 ## Credits
 ##### Free CSS 
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
-##### Issaaf kattan
+##### Javier Leon
