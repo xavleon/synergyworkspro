@@ -1,9 +1,5 @@
 # React JS Cleaning Business Page
 
-**
-  
-
-**
 
 
 ### <a href="synerproclean.com/">LIVE DEMO</a> 
