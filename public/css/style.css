@@ -71,6 +71,7 @@ hr {
   border: 0;
 }
 /* Navigation */
+
 #menu {
   padding: 15px;
   transition: all 0.8s;
@@ -602,5 +603,59 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 10px 15px;
+    }
+    #menu.navbar {
+      padding: 10px;
+      background-color: #f8f9fa; /* Change the background color if needed */
+    }
+
+    /* Adjust the navbar-brand logo */
+    .navbar-brand img {
+      width: 150px; /* Smaller logo for mobile view */
+      transform: scale(1.5); /* Adjust the scale as needed */
+      margin-left: 50px; /* Adjust the margin as needed */
+    }
+
+    /* Adjust the toggle button */
+    .navbar-toggle {
+      margin-top: 10px; /* Add space above the toggle button */
+    }
+
+    /* Adjust the collapsed menu */
+    .collapse.navbar-collapse {
+      background-color: #f8f9fa; /* Background color of the dropdown menu */
+      border-top: 1px solid #ddd; /* Optional: Add a border on top */
+      padding: 10px 0;
+    }
+
+    /* Adjust menu items */
+    .navbar-nav {
+      margin: 0;
+      padding: 0;
+      display: block;
+      text-align: left;
+    }
+
+    .navbar-nav li {
+      padding: 10px 0;
+    }
+
+    .navbar-nav a {
+      padding: 10px 15px;
+      color: #333; /* Text color */
+      display: block;
+    }
+
+    .navbar-nav a:hover {
+      background-color: #e7e7e7; /* Background color on hover */
+    }
   }
 }

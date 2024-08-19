@@ -15,4 +15,10 @@
   #portfolio {
     width: 110%;
   }
+  #navigation {
+    width: 110%;
+  }
+  #header .intro {
+    width: 100%;
+  }
 }

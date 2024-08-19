@@ -18,7 +18,14 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            SynergyWorks Pro <br></br> picture
+            <img
+              src="/img/synergy_logo.png"
+              alt="logo"
+              style={{
+                transform: "scale(2)",
+                width: "200px",
+              }}
+            />
           </a>{" "}
         </div>
 
