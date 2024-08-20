@@ -608,7 +608,7 @@ label {
 
 @media (max-width: 768px) {
   .intro-text h1 {
-      font-size: 2em; /* Adjust font size for smaller screens */
+      font-size: 32px; /* Adjust font size for smaller screens */
   }
 
   .intro-text p {
@@ -629,7 +629,7 @@ label {
   }
 
   .intro-text h1 {
-      font-size: 1.5em; /* Further adjust font size */
+      font-size: 24px; /* Further adjust font size */
   }
 
   .intro-text p {
@@ -642,6 +642,13 @@ label {
   }
 
   .intro {
-      height: auto; /* Adjust height if needed for very small screens */
+      height: auto; /* Adjust height if needed for very small screens
+     */
+
+
   }
+  #features{
+    width: 100%;
+  }
+  
 }

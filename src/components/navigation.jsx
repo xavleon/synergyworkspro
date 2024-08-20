@@ -1,5 +1,6 @@
 import React from "react";
 import { useRef } from "react";
+import "../index.css";
 
 export const Navigation = (props) => {
   const navCollapse = useRef(null); // 2. Create reference for collapse container
@@ -27,8 +28,20 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            SynergyWorks Pro <br></br> picture
+          <a
+            className="navbar-brand page-scroll navBar-responsive"
+            href="#page-top"
+          >
+            <div class="logo">
+              <img
+                src="/img/logo.svg"
+                alt=""
+                style={{
+                  width: "100%",
+                  height: "100%",
+                }}
+              />
+            </div>
           </a>{" "}
         </div>
 
