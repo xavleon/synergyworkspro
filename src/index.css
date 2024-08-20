@@ -5,7 +5,7 @@
   width: 50%
 }
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 1000px) {
   .navbar-right{
     display: flex;
     justify-content: center;
@@ -25,4 +25,12 @@
   margin-left: 50px;
  width: 50%;
  text-align:left;;
-}}
+
+}
+.navbar-right{
+  display: block;
+  overflow-y:  none;
+  margin-top: 0px;
+  
+}
+}
