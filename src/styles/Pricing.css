@@ -1,0 +1,121 @@
+#pricing {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+
+.pricing-card {
+  background: white;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 20px 0;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.pricing-card.featured {
+  border: 2px solid #5ca9fb;
+  position: relative;
+}
+
+.pricing-header {
+  margin-bottom: 30px;
+}
+
+.pricing-header h3 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.price {
+  margin: 20px 0;
+}
+
+.price .amount {
+  font-size: 48px;
+  font-weight: 700;
+  color: #5ca9fb;
+}
+
+.price .period {
+  font-size: 18px;
+  color: #999;
+}
+
+.subtitle {
+  color: #666;
+  font-style: italic;
+  margin: 10px 0;
+}
+
+.pricing-features {
+  margin: 30px 0;
+}
+
+.pricing-features ul {
+  padding: 0;
+  list-style: none;
+}
+
+.pricing-features li {
+  padding: 10px 0;
+  color: #666;
+}
+
+.additional-info {
+  margin-top: 50px;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.cta-section {
+  margin-top: 30px;
+}
+
+.cta-text {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.phone-number {
+  font-size: 28px;
+  color: #5ca9fb;
+  font-weight: 700;
+  display: block;
+  margin: 15px 0;
+  text-decoration: none;
+}
+
+.phone-number:hover {
+  color: #6372ff;
+}
+
+@media (max-width: 768px) {
+  .pricing-card {
+    padding: 20px;
+  }
+  
+  .price .amount {
+    font-size: 36px;
+  }
+  
+  .price .period {
+    font-size: 16px;
+  }
+  
+  .cta-text {
+    font-size: 20px;
+  }
+  
+  .phone-number {
+    font-size: 24px;
+  }
+}

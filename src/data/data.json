@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Professional Cleaning, Personal Touch",
-    "paragraph": "Available 24/7 for Your Convenience"
+    "title": "Transform Your Space From $0.15/Sq Ft",
+    "paragraph": "Professional Commercial Cleaning • 24/7 Availability • 100% Satisfaction Guaranteed"
   },
   "About": {
     "paragraph": "Welcome to SynergyWorks Pro, your trusted partner in professional cleaning services. For over 6 years, we have proudly served the 5 boroughs, New Jersey and Philidelphia, offering top-notch cleaning solutions tailored to meet the unique needs of our clients.",
@@ -18,53 +18,60 @@
       "Satisfaction Guarantee"
     ]
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
+  "Gallery": {
+    "BeforeImages": [
+      { "image": "img/before-pics/IMG-20250404-WA0008.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0009.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0010.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0011.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0012.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0014.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0015.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0017.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0018.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0019.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0020.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0022.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0023.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0026.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0027.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0028.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0029.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0030.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0031.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0032.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0033.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0034.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0035.jpg", "description": "Before professional cleaning" },
+      { "image": "img/before-pics/IMG-20250404-WA0036.jpg", "description": "Before professional cleaning" }
+    ],
+    "AfterImages": [
+      { "image": "img/after-pics/IMG-20250416-WA0044.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0047.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0048.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0049.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0050.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0052.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0053.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0054.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0055.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0056.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0057.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0058.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0059.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0060.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0061.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0065.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0066.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0067.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0068.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0070.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0071.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0072.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250416-WA0073.jpg", "description": "After professional cleaning" },
+      { "image": "img/after-pics/IMG-20250404-WA0013.jpg", "description":"After professional cleaning" }
+    ]
+  },
   "Services": [
     {
       "icon":"fa fa-solid fa-house ",

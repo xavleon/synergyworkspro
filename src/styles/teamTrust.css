@@ -1,0 +1,180 @@
+#team {
+    padding: 80px 0;
+    background: #f8f9fa;
+  }
+  
+  .team .thumbnail {
+    background: transparent;
+    border: none;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .team .thumbnail:hover {
+    transform: translateY(-5px);
+  }
+  
+  .team-icon {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+  }
+  
+  .team-icon i {
+    color: white;
+  }
+  
+  .caption h4 {
+    color: #333;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .caption p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0 15px;
+  }
+  
+  .section-title {
+    margin-bottom: 50px;
+  }
+  
+  .section-title h2 {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .section-title p {
+    color: #666;
+    font-size: 18px;
+  }
+  
+  .credentials-row {
+    margin-bottom: 40px;
+  }
+  
+  .credentials-box {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+  }
+  
+  .credentials-box:hover {
+    transform: translateY(-5px);
+  }
+  
+  .credentials-header {
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .credentials-header i {
+    font-size: 24px;
+    color: #5ca9fb;
+    background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .credentials-header h3 {
+    margin: 0;
+    color: #333;
+    font-size: 22px;
+  }
+  
+  .credentials-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .credentials-list li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    color: #555;
+    font-size: 16px;
+  }
+  
+  .credentials-list li i {
+    color: #5ca9fb;
+    font-size: 14px;
+  }
+  
+  .trust-indicators {
+    margin-top: 20px;
+  }
+  
+  .trust-badges {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  .trust-badges i {
+    font-size: 20px;
+    color: #5ca9fb;
+    margin-right: 8px;
+  }
+  
+  .badge-text {
+    font-size: 16px;
+    color: #666;
+    font-weight: 500;
+  }
+  
+  @media (max-width: 768px) {
+    .team .thumbnail {
+      margin-bottom: 30px;
+    }
+    
+    .team-icon {
+      width: 80px;
+      height: 80px;
+    }
+    
+    .team-icon i {
+      font-size: 2em;
+    }
+  
+    .credentials-box {
+      padding: 20px;
+    }
+  
+    .credentials-header h3 {
+      font-size: 20px;
+    }
+  
+    .credentials-list li {
+      font-size: 14px;
+    }
+  
+    .trust-badges {
+      flex-direction: column;
+      gap: 20px;
+      text-align: center;
+    }
+  
+    .badge-text {
+      display: block;
+      margin-top: 5px;
+    }
+  } 
